@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.halim.model.Product;
-import com.halim.web.service.ProductService;
+import com.Ankit.model.Product;
+import com.Ankit.web.service.ProductService;
 
 @Controller
 public class IndexController {

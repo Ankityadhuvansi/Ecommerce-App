@@ -14,13 +14,13 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.halim.dao.CategoryRepository;
-import com.halim.dao.CouponRepository;
-import com.halim.dao.ProductRepositry;
-import com.halim.model.Carousel;
-import com.halim.model.Category;
-import com.halim.model.Coupon;
-import com.halim.model.Product;
+import com.Ankit.dao.CategoryRepository;
+import com.Ankit.dao.CouponRepository;
+import com.Ankit.dao.ProductRepositry;
+import com.Ankit.model.Carousel;
+import com.Ankit.model.Category;
+import com.Ankit.model.Coupon;
+import com.Ankit.model.Product;
 
 import net.coobird.thumbnailator.Thumbnails;
 

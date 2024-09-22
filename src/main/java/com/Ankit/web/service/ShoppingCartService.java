@@ -6,11 +6,11 @@ import java.util.Set;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.halim.dao.CartItemRepository;
-import com.halim.dao.ShoppingCartRepository;
-import com.halim.model.CartItem;
-import com.halim.model.Product;
-import com.halim.model.ShoppingCart;
+import com.Ankit.dao.CartItemRepository;
+import com.Ankit.dao.ShoppingCartRepository;
+import com.Ankit.model.CartItem;
+import com.Ankit.model.Product;
+import com.Ankit.model.ShoppingCart;
 
 @Service
 public class ShoppingCartService {

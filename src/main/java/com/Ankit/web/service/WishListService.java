@@ -6,11 +6,11 @@ import java.util.Set;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.halim.dao.WishListItemRepository;
-import com.halim.dao.WishListRepository;
-import com.halim.model.Product;
-import com.halim.model.WishList;
-import com.halim.model.WishListItem;
+import com.Ankit.dao.WishListItemRepository;
+import com.Ankit.dao.WishListRepository;
+import com.Ankit.model.Product;
+import com.Ankit.model.WishList;
+import com.Ankit.model.WishListItem;
 
 @Service
 public class WishListService {

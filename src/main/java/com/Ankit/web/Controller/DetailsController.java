@@ -6,8 +6,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-import com.halim.model.Product;
-import com.halim.web.service.ProductService;
+import com.Ankit.model.Product;
+import com.Ankit.web.service.ProductService;
 
 @Controller
 public class DetailsController {

@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.halim.model.Category;
-import com.halim.model.Product;
-import com.halim.web.service.ProductService;
+import com.Ankit.model.Category;
+import com.Ankit.model.Product;
+import com.Ankit.web.service.ProductService;
 
 @Controller
 public class AdminProductController {
