@@ -1,4 +1,4 @@
-package com.halim.model;
+package com.Ankit.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
